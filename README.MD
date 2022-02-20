@@ -1,0 +1,1 @@
+# while-foreach döngü tipinde örnekler içeren projedir.
